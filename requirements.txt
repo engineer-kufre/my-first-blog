@@ -10,13 +10,11 @@ lazy-object-proxy==1.4.3
 Markdown==3.2.1
 mccabe==0.6.1
 more-itertools==8.2.0
-openpyxl==3.0.3
 packaging==20.1
 pip==19.2.3
 pluggy==0.13.1
 psycopg2-binary==2.8.4
 py==1.8.1
-pygame==1.9.6
 pylint==2.4.4
 pyparsing==2.4.6
 pytest==5.3.5
